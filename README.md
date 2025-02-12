@@ -5,7 +5,7 @@ This project demonstrates a simple implementation of Google's Chain-of-Agents (C
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Kapil690789/coa-demo
 
 
    from agents.validator import Validator
